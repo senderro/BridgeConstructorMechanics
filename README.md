@@ -1,4 +1,4 @@
 # BridgeConstructorMechanic 2D
 ## Hello everyone
-In this tutorial I will guide you through some basics for creating beams and supports in Unity, later I may be able to add the code, but a size error occurred and I was unable to upload my repository :/
+In this repository are some codes that I used to create a 2D bridge builder, the code was not created from scratch by me I saw in a tutorial.
 
